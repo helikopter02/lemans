@@ -1,0 +1,41 @@
+body{
+    width: 800px;
+    margin: auto;
+    background-color: rgb(167,153,153);
+}
+
+#levi
+{
+    font-weight: bold;
+    color: yellow;
+}
+.szia
+{
+    margin: 20px;
+}
+
+h1
+{
+    font-variant: small-caps;
+}
+.lap
+{
+    text-align: justify;
+}
+
+.lap2
+{
+    margin: 20px;
+}
+.lasarthe
+{
+    margin-left:auto;
+    margin-right: auto;
+    display: block;
+}
+a
+{
+    text-decoration: none;
+    color: darkgray;
+}
+
